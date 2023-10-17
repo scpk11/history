@@ -4,6 +4,6 @@
 
 - 左倾冒险主义与右倾保守主义的反复
 - 遵义会议——生死攸关的转折点
-- by SCPzero core TAF
+- by SCPzero、Core、TAF and Aurora 
 
 [开始 Let Go](/README.md)
